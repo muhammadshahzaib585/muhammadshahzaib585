@@ -31,7 +31,7 @@
     <td width="50%" valign="top">
       <h3 align="left">🎓 Personal Info</h3>
       <ul>
-        <li><strong>Degree:</strong> BS Computer Science — 5th Semester (COMSATS University Islamabad, Vehari Campus)</li>
+        <li><strong>Degree:</strong> BS Computer Science — 6th Semester (COMSATS University Islamabad, Vehari Campus)</li>
         <li><strong>Focus:</strong> Full Stack Architect building scalable, high-authority web applications.</li>
         <li><strong>Current:</strong> Developing SecureVote (Online Election Management System) & AdFlow-Pro.</li>
         <li><strong>Learning:</strong> Machine Learning, Predictive Modeling (Pandas & Scikit-learn), Advanced System Design.</li>
